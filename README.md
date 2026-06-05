@@ -50,7 +50,7 @@ This project is a handheld Arduino-based gaming console featuring four classic g
 ### Project Setup
 ![Project Setup](1.jpeg)
 
-### OLED Menu
+### Connection with OLED Menu
 ![Connection with OLED Menu](2.jpeg)
 
 ### Hardware Connections
