@@ -45,3 +45,17 @@ Arduino-based Mini Game Console featuring Flappy Bird, Chrome Dino, Pong, and Re
 ## Demo
 
 This project is a handheld Arduino-based gaming console featuring four classic games with OLED graphics and buzzer sound effects.
+## Project Images
+
+### Project Setup
+![Project Setup](1.jpeg)
+
+### OLED Menu
+![OLED Menu](2.jpeg)
+
+### Hardware Connections
+![Hardware](3.jpeg)
+
+## Demo Video
+
+Video file uploaded as: 7.mp4
